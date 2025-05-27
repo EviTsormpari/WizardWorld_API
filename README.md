@@ -13,6 +13,8 @@ It returns data about magical houses and is ideal for developers who want to con
 - MongoDB Atlas
 - Mongoose
 - Dotenv
+- Check the `package.json` file for the full list of dependencies and their versions.
+
 
 ---
 
