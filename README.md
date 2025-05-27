@@ -24,7 +24,8 @@ It returns data about magical houses and is ideal for developers who want to con
 git clone https://github.com/EviTsormpari/wizard-houses-api.git
 cd wizard-houses-api
 ```
-### 2. Update the .env file. I have instractions in the file to help you.
+### 2. Update the .env file
+Instructions are provided in the file to help you fill in the necessary values.
 
 ### 3. Install dependencies
 ```bash
