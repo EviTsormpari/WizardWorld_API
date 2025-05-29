@@ -8,11 +8,8 @@ const router = express.Router();
 //Import the controller for the houses
 const HouseController = require('../controllers/houses');
 
-//GET METHOD for all houses
-router.get('/', HouseController.get_allHouses);
-
-//GET METHOD WITH PARAMETER for a house(houses) by name
-// router.get('/:name', HouseController.get_houseByName);
+//GET METHOD for houses
+router.get('/', HouseController.getHouses);
  
 //Allow using the router in other files
 module.exports = router;
